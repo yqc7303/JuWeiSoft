@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">聚微</string>
+    <string name="phone_code">请前往%s查看验证码</string>
 </resources>
